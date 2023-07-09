@@ -65,6 +65,7 @@ font-family: 'Ubuntu', sans-serif;
 .sec-container{
     display: flex;
     gap: 130px;
+    margin-bottom: 180px;
 }
 .sec-column-info{
     margin-top: 370px;
@@ -88,6 +89,16 @@ ul li{
     line-height: 26px;
     padding: 10px -10px;
     text-align: left;
+}
+/* feature section */
+.feature-container{
+    display: flex;
+    justify-content: space-around;
+}
+.feature-title{
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 60px;
 }
 
 
